@@ -1,4 +1,4 @@
-FROM i386/debian:latest
+FROM i386/debian:buster
 MAINTAINER Siddharth Sahay (siddharthsahay9700@gmail.com)
 
 RUN apt-get update
